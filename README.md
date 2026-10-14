@@ -1,5 +1,7 @@
 # grokbot-minecraft-clone
 
+> Made with **Grok Bot** in roughly 25 minutes.
+
 A browser voxel sandbox (Minecraft-style) built with Three.js, with "shader-pack" style visuals: a physically based Rayleigh/Mie sky, raymarched volumetric clouds, water with planar reflections, Fresnel, animated waves, depth tint and shore foam, soft shadows that follow the player, GTAO, god rays, bloom, ACES tone mapping and SMAA. Terrain is generated from simplex noise and loaded in chunks, and all textures are drawn in code. There are no build steps or external dependencies, because Three.js r160 is included in the repo.
 
 ![Golden hour](shots/golden_hour_over_water.png)
